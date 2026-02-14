@@ -7,8 +7,7 @@ A demo blockchain built on top of React + Vite with UI from Shadcn.
 
 ## Demo
 
-TODO
-
+https://github.com/user-attachments/assets/9b62b5ca-fe96-4bea-a32f-42a56d464d19
 
 ## Requirements
 
@@ -31,3 +30,4 @@ TODO
    ```sh
    npm run dev
    ```
+4. Open `https://localhost:5173` on your browser 🎉
